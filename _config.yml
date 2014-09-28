@@ -11,3 +11,10 @@ github_username:  Joaz
 
 # Build settings
 markdown: kramdown
+
+comments:
+  provider: disqus
+  disqus:
+    short_name: lifeinhardmode
+
+
