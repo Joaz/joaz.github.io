@@ -1,0 +1,12 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Hello. If you would like to contact me, you can send me an email or send me a message on IRC. I'm constantly on Freenode, IRCnet and Foonetic. 
+
+If you need a person to talk to, try out ##depression on Freenode first. 
+
+If you happen to be around Mönchengladbach, Germany, please contact me. I'll be happy to meet up with you.
+
