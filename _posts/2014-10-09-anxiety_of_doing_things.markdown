@@ -22,4 +22,14 @@ I decided to take a power nap for 30 minutes, which went into ~10 minutes being 
 
 I must remember: I go to this course to have fun, to forget my sorrows for a while, to have phsyical exercise. I can opt-out at any point and I know that my body does tell me when hitting the limits. 
 
+# Update: 
+
+I'm glad that I went there. I managed to do the whole course without longer interruptions and it was a lot of fun moving my body to the rythm (especially after 6 days of doing nothing). At the end of the 90-minute session they introduced a part of a "dance" around the drums as well, which I felt somewhat awkward in, as I'm really bad in copying and remembering complex body movements.
+I also developed a few blisters on my hands and will have some sore muscles tomorrow. But that is not much of a problem as it will heal quickly.
+
+I also had a bit of a chat with the tutors and participants and got complimented on my colorful scarf, which I knitted earlier this year. :)
+
+Overall I'm quite happy now. Now if I ask myself why I was anxious about it earlier? I cannot answer that question. 
+But I see anxiety as a trap; And I'm so glad I didn't fall into it!
+
 
