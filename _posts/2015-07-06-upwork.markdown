@@ -1,0 +1,146 @@
+---
+layout: post
+title:  "Trans issues with Upwork"
+date:   2015-07-05 11:50:00
+categories: work
+---
+
+#### *tl;dr:*
+>  I'm unable to get money from Upwork.com because of transitioning issues and I'm looking for a source of income.
+
+#### *Preamble*
+
+My name is Jennifer, I'm transgender (or transsexual in American English). I'm defining myself and living full time as a woman since end of December 2014. Doing so with confidence is the best thing that ever happened in my life.
+
+#### Financial situation
+
+At the moment, I'm pretty desperate to get a new source of income as my old one is down and I'm living off savings and small jobs at the moment.
+
+So I have been paid by my company which made 3D printers for the last years, but it stopped being able to pay me in March this year. Right now, I'm looking for freelance jobs as a 3D printer, physical 3D design and and small scale manufacturing expert. Since my skillset is very modern for my geographical area it's almost impossible to get a job that suits me locally. Plus, I'm transition right now, which means I've to do therapy and visit doctors here to get access to further steps in transition. Moving to another country is a no-go until that's finished.
+
+#### Looking for freelance job sites
+[Upwork.com][link] seemed like a good place to start. It's popular, it's free to sign up... so why not give it a try? The only thing that struck me is that they want 10% of my income. Feels a bit like what they took in the middle ages.
+
+Anyway, it took me several hours to fill in most of my profile, ran a test and look for jobs. And voilà: There was a job offering that fit me. A company was looking for an expert to fix their printers. A few days later I got invited to a skype call which resulted in that I've worked for almost an hour on identifying their issues and now want to pay me. More jobs or eventually a trip to Panama eventually to come.
+
+#### Oops, I havn't filled the payout forms yet
+
+So we agreed on hourly billing for support that I do from my home for now. Then I noticed that I haven't set up the payout information on Upwork yet. Okay, no problem, they offer to pay me out via bank transfer. So I filled the forms and immediately got a warning and an email 
+
+
+>  The name on your bank account has been manually reviewed by our staff and did not meet the criteria for acceptance because the name in your Upwork account is different than the name on the bank account.
+
+>  In order for you to disburse funds to your bank account, you will be required to send additional information showing you are an authorized signer on this bank account. 
+
+Uh-oh. Okay, my last name matches, so it shouldn't be a big deal for the support if I tell them that I'm a transitioning transgirl? So I thought!
+
+Okay, so I wrote to the support and I hoped that'll solve my problems...
+
+
+>  Jennifer: I'm a transgender person and I'm currently transitioning. For professional work I use my new name (which I can put on invoices!), which is Jennifer Glauche, however, due to lameness of the system, it will take a while until I can change the name on my passport - and my bank would not change the name of my account until that happens.
+>  
+>  Is there a way to get my bank account activated nevertheless I use my old name as as account name in my bank? Putting my oldname up for any work I do is not an option. 
+
+I got a response from Raphaelli. D.:
+
+>  Support: I'm sorry to hear that you are having issues with your bank name information. Let me help you.
+>  
+>  After doing a thorough research about your issue, I found out that, as of now your bank name should match the bank information that you will enter in your Upwork account. I strongly suggest that you update your bank information first.
+
+Ah right. Changing my legal name should be easy, but not in Germany unfortunately. I have to go to the court, have a few pre-requirements such as a psychologist report about me, which I'm not able able to get yet.
+
+After a few emails explaining my situation, Rappaelli responded:
+
+>  Support: As per advice by our compliance specialist, you need to submit some proof of name in order for us to review and make some changes.
+>  Please submit any documents that will show that you can use the new name. We can approve the name mismatch, without a court order.
+
+#### Sending my therapists letter...
+
+So I did as they asked. But all I have right now is my therapists letter that states that I'm a transsexual, and it states both my old and new name. Unfortunately it's in German.
+
+Because a few days passed until I could send the letter, I got assigned a new support person. 
+Anne C.:
+
+>  Support: Unfortunately, we would need an official government issued ID and a billing statement for ID Verification. I suggest that you read through this article to know what type of ID and statement are acceptable for ID Verification: https://support.upwork.com/entries/23058042.
+
+Trying to stay polite, my answer to this was the following:
+
+
+>  Jennifer: I have already mentioned that I, as transitioning woman my stage, don't
+have access to a new ID yet. So I have submitted my only medical paper
+that I have right now, which states that I am transitioning and the name
+I am defining myself with (over half a year now by the way). I expect
+further waiting times of 9-12 months for getting my new ID.
+>  
+>  At this point, I must say that I'm very disappointed by your service.
+I'm a professional freelancer and problem solver. You do charge a 10%
+charge of my hourly rate of 100$. 10$ per hour of -my work- and at the
+same time you expect me to fit 100% into to your set of rules,
+apparently without any exceptions.
+>  
+>  I don't want to criticize your compliance rules at this point, I'm sure
+they are made for good reasons. But, let me say this: For the percentage
+that you charge of my income, I expect you to be flexible enough to make
+exceptions for people with exceptional issues.
+>  
+>  However, if you don't want me to work as transitioning
+transgender/transsexual woman on your platform, please openly say so.
+
+However that was not getting any of the response that I was hoping for...
+
+>  Support: I completely understand your point. I know that it is important for you to be able to to change the name showing on your profile.
+>  
+>  I hope you understand that we have certain processes for all users in Upwork. All users (may it be freelancers that also pay the service fee you mentioned or clients) that sends requests for a name change, whatever the reason may be like marriage or your own situation, need to undergo the same process and are asked the same type of documents for this to be accepted. Please do not think that this is because of the type of situation that you have right now.
+
+Wait what? You're comparing transitioning to another gender with *marriage*?? 
+
+*I got angry and cried a bit at that point.*
+
+#### I wondered if they are transphobic or just don't care
+
+>  Jennifer: actually I do not think you're aware of my situation if you compare it
+with marriage in your example. Marriage is a quick process which makes
+you eligible for a new ID immediately.
+>  
+>  I however, -must- live my life as the desired gender role fully for an
+extended period of time before I am eligible to fight in court for my
+right to change of name. This takes a lot of time and money.
+>  
+>  I ask you again, please either help me to get my exceptional situation
+fixed or tell me that I'm not welcome as transitioning person.
+
+and soon I got the response:
+
+>  Support: We understand the situation you are in. I hope you understand that what I mean regarding the policies we have for name change request is not subject to how fast or how long a user can obtain the necessary documents for the request to be approved. What this means is that the policies and procedures we have for that same type of request (name change) is subject to the same process for all users whatever the reason is for them to send this request. Please note that the reason why we would need the information provided is because the name on your account should be your legal name and verifiable through the documents requested for the ID Verification process.
+>  
+>  I apologize, but we are unable to make exceptions because of the time a user is able to attain the needed documents for this request. It is also stated in section 3.3 of the Upwork User Agreement about the identity verification process that you agree to when using the site.
+>  
+>  We are not doing this because of the situation you are in but because of the processes we have in place. Unfortunately, we are unable to make exceptions in this type of case which is what the team handling ID Verification has informed me.
+
+I think I've got the question if I'm not welcome there answered. If this were a German company I'd probably go to a lawyer at this point.
+
+#### I've got enough
+So Upwork is dead for me for a long while. Probably boycotting them afterwards and recommend against them.
+
+I'm now looking for alternatives that treat me like a professional freelancer. But I want to know if my transitioning is a problem for them  in advance before spending hours filling our my portfolio there...
+
+### Looking for jobs
+If you happen to have an interesting job for me involving 3D printers, please contact me at webmaster@joaz.de . I'm living in Mönchengladbach, Germany, unable to relocate but flexible to come over for up to a few weeks to your place for work. I can't go to homo- and transphobic countries and areas.
+
+### Donations
+I hate to ask for them, but it seems necessary right now. If you want to support me with money to survive, get a replacement for a missing tooth, go to places like CCC Camp 2015 and be able to do cool projects again, that'd be great!
+
+You can send me bitcoins to 1ECubTbwMG9tnoZ1fhNnspPchWDHmwt134
+
+or paypal via this button (note: it will show my old name):
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RCU6FE664G7HY">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" 	alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+Thanks to all supporters!
+
+[link]: http://www.upwork.com
