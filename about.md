@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello. If you would like to contact me, you can send me an email or send me a message on IRC. I'm constantly on Freenode, IRCnet and Foonetic. 
+Hi, my name is Jennifer Glauche and this is my personal blog.
 
-If you need a person to talk to, try out ##depression on Freenode first. 
-
-If you happen to be around Mönchengladbach, Germany, please contact me. I'll be happy to meet up with you.
+You can contact me at webmaster@joaz.de or jglauche at Freenode, IRCnet, Foonetic and Transadvice.org.
 
